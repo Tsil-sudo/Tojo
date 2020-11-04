@@ -1,0 +1,73 @@
+body {
+
+  background-image: url("happy.png");
+}
+
+h1 {
+
+  /* padding-left: 10px; */
+  padding-top: 20px;
+  font-size: 70px;
+  font-family: cursive;
+  text-align: center;
+  font-weight: normal;
+  word-spacing: 20px;
+}
+
+h3{
+  font-family:cursive;
+  text-align: center;
+  padding-top: 20px;
+}
+button {
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     color: #FFFFFF;
+     font-family: Open Sans;
+     font-size: 20px;
+     font-weight: 500;
+     padding: 0px;
+     padding-left: 20px;
+     padding-right: 20px;
+     background-color: #00C2CB;
+     border: solid #00c2cb 1px;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+     margin-top: 20px;
+}
+
+button:hover {
+  background: #1E62D0;
+ border: solid #337FED 1px;
+ -webkit-border-radius: 50px;
+ -moz-border-radius: 20px;
+ border-radius: 20px;
+ text-decoration: none;
+
+}
+.Tojo-pics {
+    width: 300px;
+    height: 300px;
+    margin-left: 250px;
+  }
+
+.left {
+  margin-left: 100px;
+  margin-top: 50px;
+
+}
+.input {
+  margin-top: 100px;
+  padding-right: 100px;
+
+}
+
+.form-group {
+  text-align: center;
+  margin-top: 200px;
+  margin-left: 200px;
+
+}
